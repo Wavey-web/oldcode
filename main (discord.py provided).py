@@ -27,7 +27,7 @@ COMICS = [
 
 LOG_FILE_PATH = 'chapter_log.txt'
 REFRESH_INTERVAL = 60 * 60 * 20  # Set the refresh interval to 20 hours
-DISCORD_TOKEN = 'NjcwMDY0MDYxNjAxNDE1MTk5.Gb8JTe.h2YxNB1mGgOxn9VhZgkcrc7wo-aenjxFCPpiJc'
+DISCORD_TOKEN = '-'
 USER_ID_TO_NOTIFY = 365659613821009920  # Replace with the user ID you want to notify
 MAX_CHAPTERS_TO_NOTIFY = 5  # Adjust the maximum number of chapters to notify
 
